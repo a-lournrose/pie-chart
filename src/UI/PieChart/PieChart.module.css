@@ -1,0 +1,9 @@
+.canvas {
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+.unit {
+    fill: none;
+    stroke-width: 10;
+}
