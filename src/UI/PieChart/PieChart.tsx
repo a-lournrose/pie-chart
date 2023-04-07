@@ -11,7 +11,7 @@ interface IPieChart {
 }
 
 const PieChart = ({items, size}: IPieChart) => {
-    const pieColors = [
+    const pieColors = [ // Вынести
         '#FFD1DC',
         '#EFA94A',
         '#7FB5B5',
